@@ -28,3 +28,30 @@ Como se ve aqui, esta a la espera de confirmacion
 
 ![image](https://github.com/Lao19/proweb_Actividad_N1/assets/126922271/5baa1011-7c07-449e-b54e-74b2c82ed7f1)
 
+
+
+### 3. Se crean las branches staging y develop, puesto que la branch main, es nuestra rama principal del repositorio, para ello se siguen estos pasos:
+
+#### Desde la terminal de Git Bash:
+
+a. Se comienza clonando el repositorio remoto en nuestro equipo local
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
