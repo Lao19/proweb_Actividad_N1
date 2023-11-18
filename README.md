@@ -34,24 +34,31 @@ Como se ve aqui, esta a la espera de confirmacion
 
 #### Desde la terminal de Git Bash:
 
-a. Se comienza clonando el repositorio remoto en nuestro equipo local
+a. Se comienza clonando el repositorio remoto en nuestro equipo local con el comando git clone https://github.com/Lao19/proweb_Actividad_N1.git
 
+![image](https://github.com/Lao19/proweb_Actividad_N1/assets/126922271/4537f2be-1696-44a6-84c9-dd9b0e092f4b)
 
+b. Se accede al repositorio local y se verifica que estemos parados en la rama main con el comando git branch
 
+![image](https://github.com/Lao19/proweb_Actividad_N1/assets/126922271/e351dc93-4c4c-45c2-b4f1-084700d94527)
 
+c. Se crean las nuevas ramas llamadas staging y develop, con los comandos "git checkout -b staging" y "git checkout -b develop", y con 
+git branch, se verifican
 
+![image](https://github.com/Lao19/proweb_Actividad_N1/assets/126922271/727fc9d7-4339-4989-879f-f410fb134c1f)
 
+d. Ahora, se deben subir las ramas del repositorio local al remoto:
+Primero, utilizando el comando "git add ." (parados en la rama la cual se quiere subir) se agregan todos los cambios realizados, luego se utiliza el comando "git commit -m "comentario"" 
+para dejar un comentario sobre cual es el cambio que se esta realizando. Por ultimo, se utiliza el comando "git push origin nombre_de_la_rama" para de esta forma, subir la rama con 
+todos sus cambios actualizados a nuestro repositorio remoto.
 
+![image](https://github.com/Lao19/proweb_Actividad_N1/assets/126922271/b3105105-70a3-4c86-aaed-c8323cca0a39)
 
+Se sigue este mismo procedimiento para la rama staging (cambiando a ella con el comando "git checkout nombre_de_la_rama")
 
+![image](https://github.com/Lao19/proweb_Actividad_N1/assets/126922271/ed16e7f0-cbd7-4ade-abb3-222fa69b19b0)
 
+Viendo de esta forma, todas las branches en el repositorio remoto
 
-
-
-
-
-
-
-
-
+![image](https://github.com/Lao19/proweb_Actividad_N1/assets/126922271/aceea4cb-6ccb-4ced-96c4-0161ce60e069)
 
