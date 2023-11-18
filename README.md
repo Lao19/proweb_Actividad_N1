@@ -16,4 +16,15 @@ Primero, se hara desde la terminal de Git Bash:
 
 #### Pasos
 
-a. Abrimos la terminal y clonamos el repositorio
+a. Ingresamos a los ajustes del repositorio, especificamente al apartado de colaboradores
+
+![image](https://github.com/Lao19/proweb_Actividad_N1/assets/126922271/4ada7a48-b2c7-40ac-a567-ddab4c163f84)
+
+b. Se ingresa el usuario del colaborador y se envia la solicitud para que se una al repositorio
+
+![image](https://github.com/Lao19/proweb_Actividad_N1/assets/126922271/54f95041-2f43-48ac-b6e1-4ed6a705d0c9)
+
+Como se ve aqui, esta a la espera de confirmacion
+
+![image](https://github.com/Lao19/proweb_Actividad_N1/assets/126922271/5baa1011-7c07-449e-b54e-74b2c82ed7f1)
+
