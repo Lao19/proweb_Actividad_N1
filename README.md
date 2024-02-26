@@ -56,12 +56,14 @@ todos sus cambios actualizados a nuestro repositorio remoto.
 
 Se sigue este mismo procedimiento para la rama staging (cambiando a ella con el comando "git checkout nombre_de_la_rama")
 
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Link a la pagina web: https://lao19.github.io/proweb_Actividad_N1/
 ![image](https://github.com/Lao19/proweb_Actividad_N1/assets/126922271/ed16e7f0-cbd7-4ade-abb3-222fa69b19b0)
 
 Viendo de esta forma, todas las branches en el repositorio remoto
 
 ![image](https://github.com/Lao19/proweb_Actividad_N1/assets/126922271/aceea4cb-6ccb-4ced-96c4-0161ce60e069)
 
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Link a la pagina web: https://lao19.github.io/proweb_Actividad_N1/
